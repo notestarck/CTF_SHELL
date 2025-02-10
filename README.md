@@ -5,6 +5,7 @@ sont a noter dans le fichier flag.txt sous la forme :
 
 FLAGXX{commandes utilisees} - ou XX est le numero du FLAG correspondant au numero de l'exercice.
 
+Les commandes doivent afficher le FLAG et seulement le ou les lignes du FLAG, le reste n'est pas important.
 Il n'est pas possible d'acceder a l'exercice suivant sans resoudre le precedent.
 
 Bon courage.
